@@ -88,20 +88,6 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rupak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupakranjan098&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Rupakranjan098&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupakranjan098&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
----
-
 ## 💬 Ask Me About
 
 - Building cross-platform apps with **React Native & Expo**
@@ -117,11 +103,3 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 - React Native performance optimisation with **Reanimated**
 - Unit & integration testing with React Native Testing Library
 - CI/CD pipelines with **GitHub Actions**
-
----
-
-<div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Rupakranjan098&icon=6&color=6)](https://visitcount.itsvg.in)
-
-</div>
