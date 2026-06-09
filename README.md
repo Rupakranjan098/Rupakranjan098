@@ -1,18 +1,132 @@
-# 💫 About Me:
-I’m currently working on  <br>- React Native apps (BMI Calculator, Expense Tracker)  <br>- Learning app UI/UX design  <br><br>I’m looking to collaborate on  <br>- Mobile app projects  <br>- Beginner-friendly open-source projects  <br><br>I’m looking for help with  <br>- Advanced React Native concepts  <br>- App performance optimization  <br><br>I’m currently learning.<br>- React Native & Expo  <br>- JavaScript (ES6+)  <br>- UI/UX design basics  <br><br> Ask me about  <br>- React Native basics  <br>- Simple app projects  <br>- Beginner coding guidance  <br><br>Fun fact:<br>- I love building apps and turning ideas into real projects. 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rupak%20Ranjan%20Mohanta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=React%20%26%20React%20Native%20Developer&descSize=18&descAlignY=58&descColor=a0c4ff" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Add me as a friend on Discord! Invite expires in 1 week: https://discord.gg/bq6M3fep) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupak_ranjan__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsrupak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rupakranjanmohanta95@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupakranjan.online-0f2027?style=for-the-badge&logo=firefox&logoColor=white)](https://rupakranjan.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itsrupak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsrupak)
+[![Email](https://img.shields.io/badge/Email-rupakranjanmohanta13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupakranjanmohanta13@gmail.com)
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rupakranjan098&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rupakranjan098&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupakranjan098&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rupakranjan098&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns ideas into shipped, working apps. I've built 3 complete projects spanning cross-platform mobile apps, billing systems, and enterprise management portals — all using modern TypeScript-first architecture.
+
+- 🚀 **3 shipped projects** — mobile, web, and full-stack
+- 🎯 **Open to work** — frontend & mobile roles, on-site · hybrid · remote
+- 📍 Based in **Odisha, India** · Available immediately
+- 🌐 Portfolio → **[rupakranjan.online](https://rupakranjan.online)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & APIs**
+
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+**Testing & Tooling**
+
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 HealthTrack — React Native Health & Fitness App
+> Cross-platform mobile app for BMI tracking, workout planning, and nutrition recommendations.
+
+- Built with **React Native + TypeScript + Expo** — runs on iOS & Android with zero platform-specific branches
+- Integrated a public **REST API via Axios** with error boundary components for graceful failure handling
+- 8+ reusable components · **Jest** unit tests on core calculation logic · async state via **AsyncStorage**
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupakranjan098)
+
+---
+
+### 🧾 GST Billing System — Invoice & Tax Management Web App
+> Full-stack billing system handling invoice generation and GST calculation across 3 tax slabs.
+
+- **React + TypeScript + Redux** frontend consuming a **Laravel REST API**, validated end-to-end with Postman
+- Zero manual calculation errors across 100+ test invoices
+- Responsive across 4+ screen sizes using **CSS Flexbox** and TypeScript props validation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupakranjan098)
+
+---
+
+### 🏗️ Harlan Portal — Construction Company Management System
+> Enterprise portal consolidating 5+ manual workflows for a construction firm into a single dashboard.
+
+- **React + TypeScript + Redux** frontend with a **RESTful Laravel** backend
+- Pixel-accurate implementation from **Figma** wireframes · tracked via **Git & GitHub** pull requests
+- Zero critical bugs across 3 feature iterations · **Jest** unit tests on all business logic modules
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupakranjan098)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rupak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupakranjan098&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Rupakranjan098&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupakranjan098&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 💬 Ask Me About
+
+- Building cross-platform apps with **React Native & Expo**
+- **TypeScript** component architecture and interface design
+- **REST API** integration with Axios and error handling patterns
+- **Redux** state management in React and React Native apps
+- **Laravel** REST backends and API design
+
+---
+
+## 🎯 Currently Deepening
+
+- React Native performance optimisation with **Reanimated**
+- Unit & integration testing with **Jest** and React Native Testing Library
+- CI/CD pipelines with **GitHub Actions**
+
+---
+
+<div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=Rupakranjan098&icon=6&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+
+</div>
