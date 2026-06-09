@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rupak%20Ranjan%20Mohanta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=React%20%26%20React%20Native%20Developer&descSize=18&descAlignY=58&descColor=a0c4ff" />
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-rupakranjan.online-0f2027?style=for-the-badge&logo=firefox&logoColor=white)](https://rupakranjan.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-itsrupak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsrupak)
 [![Email](https://img.shields.io/badge/Email-rupakranjanmohanta13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupakranjanmohanta13@gmail.com)
@@ -47,7 +45,6 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 
 **Testing & Tooling**
 
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -63,7 +60,7 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 
 - Built with **React Native + TypeScript + Expo** — runs on iOS & Android with zero platform-specific branches
 - Integrated a public **REST API via Axios** with error boundary components for graceful failure handling
-- 8+ reusable components · **Jest** unit tests on core calculation logic · async state via **AsyncStorage**
+- 8+ reusable components · async state via **AsyncStorage**
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupakranjan098)
 
@@ -85,7 +82,7 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 
 - **React + TypeScript + Redux** frontend with a **RESTful Laravel** backend
 - Pixel-accurate implementation from **Figma** wireframes · tracked via **Git & GitHub** pull requests
-- Zero critical bugs across 3 feature iterations · **Jest** unit tests on all business logic modules
+- Zero critical bugs across 3 feature iterations
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupakranjan098)
 
@@ -118,7 +115,7 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 ## 🎯 Currently Deepening
 
 - React Native performance optimisation with **Reanimated**
-- Unit & integration testing with **Jest** and React Native Testing Library
+- Unit & integration testing with React Native Testing Library
 - CI/CD pipelines with **GitHub Actions**
 
 ---
@@ -126,7 +123,5 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 <div align="center">
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Rupakranjan098&icon=6&color=6)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 </div>
