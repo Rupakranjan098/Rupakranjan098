@@ -10,9 +10,9 @@
 
 ## 👋 About Me
 
-I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns ideas into shipped, working apps. I've built 3 complete projects spanning cross-platform mobile apps, billing systems, and enterprise management portals — all using modern TypeScript-first architecture.
+I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns ideas into shipped, working apps. I've built 4 complete projects spanning cross-platform mobile apps, billing systems, library administration platforms, and enterprise management portals — all using modern TypeScript-first architecture.
 
-- 🚀 **3 shipped projects** — mobile, web, and full-stack
+- 🚀 **4 shipped projects** — mobile, web, and full-stack
 - 🎯 **Open to work** — frontend & mobile roles, on-site · hybrid · remote
 - 📍 Based in **Odisha, India** · Available immediately
 - 🌐 Portfolio → **[rupakranjan.online](https://rupakranjan.online)**
@@ -35,11 +35,13 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & APIs**
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
@@ -77,6 +79,19 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 
 ---
 
+### 📚 Library Management System — Library Administration & Catalog Platform
+> Laravel-powered administrative dashboard and public catalog for end-to-end library operations.
+
+- Achieved a complete administrative dashboard for library operations, measured by full **CRUD coverage across books, authors, categories, and members**, by building a **Laravel 11** backend with **MySQL** relational data models
+- Achieved real-time visibility into lending activity, measured by automatic tracking of **active, returned, and overdue borrowings** with live stock adjustments, by implementing borrowing-record logic tied to copy-count validation
+- Achieved a responsive public catalog with live reservation, measured by instant search and filtering by **title, author, or ISBN**, by styling the interface with **Tailwind CSS, HTML, and CSS** on top of Laravel Blade views
+
+**Stack:** Laravel · PHP · Tailwind CSS · MySQL · HTML · CSS · Git
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupakranjan098)
+
+---
+
 ### 🏗️ Harlan Portal — Construction Company Management System
 > Enterprise portal consolidating 5+ manual workflows for a construction firm into a single dashboard.
 
@@ -95,6 +110,7 @@ I'm a **React & React Native developer** and MCA graduate (CGPA 8.34) who turns 
 - **REST API** integration with Axios and error handling patterns
 - **Redux** state management in React and React Native apps
 - **Laravel** REST backends and API design
+- Relational data modeling and **MySQL** schema design
 
 ---
 
